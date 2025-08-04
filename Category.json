@@ -1,0 +1,35 @@
+{
+"Category": [
+    {
+      "id": 0,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1751616285/cat1_j7sapo.png",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1751616285/cat2_ymo8zq.png",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1751616286/cat3_m4pop3.png",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1751616287/cat4_wzzhwp.png",
+      "title": "Skechers"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1751616286/cat3_m4pop3.png",
+      "title": "Reebok"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1751616285/cat6_hzne1k.png",
+      "title": "Lacoste"
+    }
+  ]
+
+}
